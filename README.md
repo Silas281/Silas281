@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=Silas281&count_private=true&&theme=radical&hide_border=true" width="49.5%"/>
   <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silas281&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
