@@ -2,9 +2,9 @@
 ## Hi, I’m Silas Sangmin
 
 
-- 👀 I’m interested in Machine Learning, Full stack development, and Data Science
+- 👀 I'm a Full stack developer, also curios about Machine Learning,
 - 🌱 I’m currently learning Mobile App Development - Flutter
-- 💞️ I’m looking to collaborate on Open source Projects
+- 💞️ I’m looking forward to Software development, and machine learning opportunities
 - 📫 Reach me via [linkedin](https://www.linkedin.com/in/silas-sangmin/), [Email](sangminsilas@gmail.com)
 
 <!---
