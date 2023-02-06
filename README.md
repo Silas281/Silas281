@@ -15,13 +15,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silas281&&theme=radical&hide_border=true" width="49.5%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Silas281&count_private=true&&theme=radical&hide_border=true" width="49.5%"/>
-
-</div>  
-<br>
+  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
+</div>  
+
 > ## Programming Languages
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
