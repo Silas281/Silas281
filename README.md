@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Silas Sangmin
+
+## Hi, I’m Silas Sangmin
 - 👀 I’m interested in Machine Learning, Full stack development, and Data Science
 - 🌱 I’m currently learning Mobile App Development - Flutter
 - 💞️ I’m looking to collaborate on Open source Projects
@@ -12,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <div style="display:flex;justify-content: space-between">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage&hide_border=true" width="55.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage&hide_border=true" width="49.5%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Silas281&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="55.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Silas281&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
 <br/>
 
 > ## Programming Languages
