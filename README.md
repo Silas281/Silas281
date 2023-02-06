@@ -8,7 +8,13 @@
 Silas281/Silas281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br />
+<br />
 
+<div style="display:flex;justify-content: space-between">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage&hide_border=true" width="49.5%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
 <br/>
 
 > ## Programming Languages
