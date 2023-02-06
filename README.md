@@ -16,10 +16,6 @@ You can click the Preview link to take a look at your changes.
 <div style="display:flex;justify-content: space-between">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silas281&&theme=radical&hide_border=true" width="49.5%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Silas281&count_private=true&theme=radical&hide_border=true" width="49.5%"/>
-  <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silas281&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
