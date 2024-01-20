@@ -2,8 +2,7 @@
 ## Hi, I’m Silas Sangmin
 
 
-- 👀 I'm a Full stack developer, also curious about Machine Learning,
-- 🌱 I’m currently learning Mobile App Development -React Native
+- 👀 I'm a Full stack developer, also passionate about Machine Learning,
 - 💞️ I’m looking forward to Software development and machine learning opportunities
 - 📫 Reach me via [linkedin](https://www.linkedin.com/in/silas-sangmin/), [Email](sangminsilas@gmail.com)
 
